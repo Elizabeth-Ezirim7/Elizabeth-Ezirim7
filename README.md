@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elizabeth-Ezirim7
 - 👀 I’m interested in Software testing
 - 🌱 I’m currently on a journey to become the most sought after Quality Assurance Engineer....So help me GOD
-- 💞️ I’m looking to collaborate on meaning projects
+- 💞️ I’m looking to collaborate on meaningful projects
 - 📫 How to reach me ...
 
 <!---
